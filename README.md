@@ -1,4 +1,4 @@
-# Multiple Stage Build Dockerfile
+# Multiple Image Build Dockerfile
 
 This project serves as an example of a deployment frontend (ReactJS) using docker and nginx.
 
@@ -10,4 +10,4 @@ Make sure you have [docker](https://docs.docker.com/install/) and [docker-compos
 docker-compose up
 ```
 
-[Code example for my blog post](http://felipelinsmachado.com/multiple-stage-build-dockerfile/)
+[Code example for my blog post](http://felipelinsmachado.com/multiple-image-build-dockerfile/)
